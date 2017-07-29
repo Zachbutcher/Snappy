@@ -7,5 +7,8 @@ target 'Snappy' do
 
   # Pods for Snappy
 pod 'Firebase/Core'
+pod 'Firebase/Auth'
+pod 'Firebase/Storage'
+pod 'Firebase/Database'
 
 end
